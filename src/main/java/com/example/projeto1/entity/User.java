@@ -15,9 +15,6 @@ public class User {
 	@ManyToMany
 	private Set<Role> roles;
 	
-	
-	
-	
 	public User(String name, String email) {
 		super();
 		this.name = name;

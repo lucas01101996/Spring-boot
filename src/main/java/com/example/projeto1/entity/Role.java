@@ -21,6 +21,5 @@ public class Role {
 		this.name = name;
 	}
 	
-	//spring.h2.console.enabled=true tava no applciation.properties
-	//spring.datasource.url=jdbc:h2:mem:testdb
+	
 }
